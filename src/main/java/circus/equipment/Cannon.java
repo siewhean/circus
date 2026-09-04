@@ -1,3 +1,4 @@
+package circus.equipment;
 public class Cannon extends Equipment {
 
     public Cannon(int purchasePrice) {

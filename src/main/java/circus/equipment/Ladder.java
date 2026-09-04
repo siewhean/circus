@@ -1,3 +1,4 @@
+package circus.equipment;
 public class Ladder extends Equipment {
 
     public Ladder(int purchasePrice) {
